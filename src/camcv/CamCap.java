@@ -417,6 +417,7 @@ startBtn.setEnabled(false);
     * @param args the command line arguments
     */
     public static void main(String args[]) {
+        //Ma
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
     	//System.loadLibrary("OpenCV");
         java.awt.EventQueue.invokeLater(new Runnable() {
